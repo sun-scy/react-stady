@@ -1,0 +1,22 @@
+
+.login{
+    background-color: #CDDC39;
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.form-modal{
+    width: 600px;
+    background-color: #fff;
+    padding: 48px 24px;
+    box-sizing: border-box;
+
+}
+
+.title{
+    text-align: left;
+    font-size: 28px;
+}
